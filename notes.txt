@@ -1,0 +1,2 @@
+we wwant that on game_init event queue wali cheze
+
